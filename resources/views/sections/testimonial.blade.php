@@ -43,3 +43,21 @@
         </div>
     </div>
 </div>
+
+<!-- Add this CSS to style the left and right arrows -->
+<style>
+/* Mengubah warna tombol panah kiri dan kanan */
+.owl-carousel .owl-nav .owl-prev,
+.owl-carousel .owl-nav .owl-next {
+    background-color: LightSkyBlue;  /* Warna background panah */
+    color: white;                    /* Warna ikon panah */
+    border-radius: 50%;              /* Membuat tombol bulat */
+    padding: 10px;                   /* Memberikan padding */
+}
+
+/* Mengubah warna panah icon di dalam tombol */
+.owl-carousel .owl-nav .owl-prev i,
+.owl-carousel .owl-nav .owl-next i {
+    color: white;                   /* Warna putih untuk ikon panah */
+}
+</style>

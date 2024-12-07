@@ -25,9 +25,9 @@
                                 </div>
                             </div>
                             <div class="d-flex justify-content-between">
-                                <a class="btn btn-sm btn-primary rounded py-2 px-4"
+                                <a class="btn btn-sm" style="background-color: LightSkyBlue; color: white; border-radius: 20px; padding: 0.5rem 1rem;"
                                    href="{{ route('rooms.index') }}">View Detail</a>
-                                <a class="btn btn-sm btn-dark rounded py-2 px-4"
+                                <a class="btn btn-sm" style="background-color: DarkSlateBlue; color: white; border-radius: 20px; padding: 0.5rem 1rem;"
                                    href="{{ route('rooms.index') }}">Book Now</a>
                             </div>
                         </div>

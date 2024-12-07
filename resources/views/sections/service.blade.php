@@ -10,7 +10,7 @@
                     <div class="service-icon bg-transparent border rounded p-1">
                         <div
                             class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
-                            <i class="fa fa-hotel fa-2x text-primary"></i>
+                            <i class="fa fa-hotel fa-2x"></i>
                         </div>
                     </div>
                     <h5 class="mb-3">Rooms & Appartment</h5>
@@ -23,7 +23,7 @@
                     <div class="service-icon bg-transparent border rounded p-1">
                         <div
                             class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
-                            <i class="fa fa-utensils fa-2x text-primary"></i>
+                            <i class="fa fa-utensils fa-2x"></i>
                         </div>
                     </div>
                     <h5 class="mb-3">Food & Restaurant</h5>
@@ -36,7 +36,7 @@
                     <div class="service-icon bg-transparent border rounded p-1">
                         <div
                             class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
-                            <i class="fa fa-spa fa-2x text-primary"></i>
+                            <i class="fa fa-spa fa-2x"></i>
                         </div>
                     </div>
                     <h5 class="mb-3">Spa & Fitness</h5>
@@ -49,7 +49,7 @@
                     <div class="service-icon bg-transparent border rounded p-1">
                         <div
                             class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
-                            <i class="fa fa-swimmer fa-2x text-primary"></i>
+                            <i class="fa fa-swimmer fa-2x"></i>
                         </div>
                     </div>
                     <h5 class="mb-3">Sports & Gaming</h5>
@@ -62,7 +62,7 @@
                     <div class="service-icon bg-transparent border rounded p-1">
                         <div
                             class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
-                            <i class="fa fa-glass-cheers fa-2x text-primary"></i>
+                            <i class="fa fa-glass-cheers fa-2x"></i>
                         </div>
                     </div>
                     <h5 class="mb-3">Event & Party</h5>
@@ -75,7 +75,7 @@
                     <div class="service-icon bg-transparent border rounded p-1">
                         <div
                             class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
-                            <i class="fa fa-dumbbell fa-2x text-primary"></i>
+                            <i class="fa fa-dumbbell fa-2x"></i>
                         </div>
                     </div>
                     <h5 class="mb-3">GYM & Yoga</h5>
@@ -86,3 +86,42 @@
         </div>
     </div>
 </div>
+
+<!-- Tambahkan CSS -->
+<style>
+    /* Warna default */
+    .service-item {
+        background-color: #fff;
+        transition: all 0.3s ease;
+        text-decoration: none;
+    }
+
+    .service-item .service-icon i {
+        color: #87CEFA; /* Light Sky Blue untuk ikon secara default */
+        transition: all 0.3s ease;
+    }
+
+    /* Efek saat kursor diarahkan */
+    .service-item:hover {
+        background-color: #87CEFA; /* Light Sky Blue untuk latar belakang */
+    }
+
+    .service-item:hover .service-icon i {
+        color: #87CEFA; /* Ikon tetap Light Sky Blue saat hover */
+    }
+
+    /* Mengubah warna judul "Our Services" */
+    .section-title {
+        color: #87CEFA; /* Light Sky Blue untuk judul */
+    }
+
+    /* Mengubah warna teks "Services" */
+    .text-primary {
+        color: #87CEFA !important; /* Light Sky Blue untuk teks dengan class .text-primary */
+    }
+
+    /* Mengubah warna garis bawah di "Services" */
+    .text-primary::before {
+        background-color: #87CEFA; /* Light Sky Blue untuk garis bawah */
+    }
+</style>

@@ -9,7 +9,7 @@
                             Living</h6>
                         <h1 class="display-3 text-white mb-4 animated slideInDown">Discover A Brand Luxurious
                             Hotel</h1>
-                        <a class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft"
+                        <a class="btn btn-light-sky-blue py-md-3 px-md-5 me-3 animated slideInLeft"
                            href="{{ route('rooms.index') }}">Book A Room</a>
                     </div>
                 </div>
@@ -22,7 +22,7 @@
                             Living</h6>
                         <h1 class="display-3 text-white mb-4 animated slideInDown">Discover A Brand Luxurious
                             Hotel</h1>
-                        <a class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft"
+                        <a class="btn btn-light-sky-blue py-md-3 px-md-5 me-3 animated slideInLeft"
                            href="{{ route('rooms.index') }}">Book A Room</a>
                     </div>
                 </div>
@@ -40,3 +40,26 @@
         </button>
     </div>
 </div>
+
+<!-- Tambahkan CSS -->
+<style>
+    /* Warna dasar tombol */
+    .btn-light-sky-blue {
+        background-color: #87CEFA; /* Light Sky Blue */
+        color: #fff; /* Teks putih */
+        border: none; /* Tanpa border */
+        transition: background-color 0.3s ease, color 0.3s ease; /* Animasi perubahan warna */
+    }
+
+    /* Warna saat hover */
+    .btn-light-sky-blue:hover {
+        background-color: #4682B4; /* Steel Blue */
+        color: #fff; /* Tetap putih */
+    }
+
+    /* Warna saat tombol aktif */
+    .btn-light-sky-blue:active {
+        background-color: #5A9BD4; /* Varian biru yang lebih gelap */
+        color: #fff;
+    }
+</style>
