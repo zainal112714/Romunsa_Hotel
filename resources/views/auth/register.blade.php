@@ -56,9 +56,9 @@
                             </div>
 
                             <div class="col-12">
-                                <button class="btn btn-primary w-100" type="submit">Create Account</button>
+                                <button class="btn w-100" type="submit" style="background-color: midnightblue; color: white;">Create Account</button>
                             </div>
-                            <p class="text-center">Already have an account? <a href="{{ route('login') }}">Log In</a></p>
+                            <p class="text-center">Already have an account? <a href="{{ route('login') }}" style="color: midnightblue;">Log In</a></p>
                         </form>
                     </div>
                 </div>
@@ -66,4 +66,3 @@
         </div>
     </div>
 @endsection
-

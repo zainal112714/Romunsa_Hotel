@@ -10,10 +10,10 @@
                     <div class="service-icon bg-transparent border rounded p-1">
                         <div
                             class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
-                            <i class="fa fa-hotel fa-2x"></i>
+                            <i class="fa fa-parking fa-2x"></i>
                         </div>
                     </div>
-                    <h5 class="mb-3">Rooms & Appartment</h5>
+                    <h5 class="mb-3">Parkir Mobil dan Motor</h5>
                     <p class="text-body mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem
                         sed diam stet diam sed stet lorem.</p>
                 </a>
@@ -23,23 +23,10 @@
                     <div class="service-icon bg-transparent border rounded p-1">
                         <div
                             class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
-                            <i class="fa fa-utensils fa-2x"></i>
+                            <i class="fa fa-chalkboard-teacher fa-2x"></i>
                         </div>
                     </div>
-                    <h5 class="mb-3">Food & Restaurant</h5>
-                    <p class="text-body mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem
-                        sed diam stet diam sed stet lorem.</p>
-                </a>
-            </div>
-            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                <a class="service-item rounded" href="">
-                    <div class="service-icon bg-transparent border rounded p-1">
-                        <div
-                            class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
-                            <i class="fa fa-spa fa-2x"></i>
-                        </div>
-                    </div>
-                    <h5 class="mb-3">Spa & Fitness</h5>
+                    <h5 class="mb-3">Ruang Rapat</h5>
                     <p class="text-body mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem
                         sed diam stet diam sed stet lorem.</p>
                 </a>
@@ -49,36 +36,10 @@
                     <div class="service-icon bg-transparent border rounded p-1">
                         <div
                             class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
-                            <i class="fa fa-swimmer fa-2x"></i>
+                            <i class="fa fa-calendar-alt fa-2x"></i>
                         </div>
                     </div>
-                    <h5 class="mb-3">Sports & Gaming</h5>
-                    <p class="text-body mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem
-                        sed diam stet diam sed stet lorem.</p>
-                </a>
-            </div>
-            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                <a class="service-item rounded" href="">
-                    <div class="service-icon bg-transparent border rounded p-1">
-                        <div
-                            class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
-                            <i class="fa fa-glass-cheers fa-2x"></i>
-                        </div>
-                    </div>
-                    <h5 class="mb-3">Event & Party</h5>
-                    <p class="text-body mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem
-                        sed diam stet diam sed stet lorem.</p>
-                </a>
-            </div>
-            <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
-                <a class="service-item rounded" href="">
-                    <div class="service-icon bg-transparent border rounded p-1">
-                        <div
-                            class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
-                            <i class="fa fa-dumbbell fa-2x"></i>
-                        </div>
-                    </div>
-                    <h5 class="mb-3">GYM & Yoga</h5>
+                    <h5 class="mb-3">Events dan Pesta</h5>
                     <p class="text-body mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem
                         sed diam stet diam sed stet lorem.</p>
                 </a>

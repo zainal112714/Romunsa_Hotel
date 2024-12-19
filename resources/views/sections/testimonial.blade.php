@@ -2,40 +2,40 @@
     <div class="container">
         <div class="owl-carousel testimonial-carousel py-5">
             <div class="testimonial-item position-relative bg-white rounded overflow-hidden">
-                <p>Tempor stet labore dolor clita stet diam amet ipsum dolor duo ipsum rebum stet dolor amet
-                    diam stet. Est stet ea lorem amet est kasd kasd et erat magna eos</p>
-                <div class="d-flex align-items-center">
-                    <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-1.jpg"
-                         style="width: 45px; height: 45px;">
-                    <div class="ps-3">
-                        <h6 class="fw-bold mb-1">Client Name</h6>
-                        <small>Profession</small>
-                    </div>
-                </div>
-                <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mb-n1"></i>
-            </div>
-            <div class="testimonial-item position-relative bg-white rounded overflow-hidden">
-                <p>Tempor stet labore dolor clita stet diam amet ipsum dolor duo ipsum rebum stet dolor amet
-                    diam stet. Est stet ea lorem amet est kasd kasd et erat magna eos</p>
-                <div class="d-flex align-items-center">
-                    <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-2.jpg"
-                         style="width: 45px; height: 45px;">
-                    <div class="ps-3">
-                        <h6 class="fw-bold mb-1">Client Name</h6>
-                        <small>Profession</small>
-                    </div>
-                </div>
-                <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mb-n1"></i>
-            </div>
-            <div class="testimonial-item position-relative bg-white rounded overflow-hidden">
-                <p>Tempor stet labore dolor clita stet diam amet ipsum dolor duo ipsum rebum stet dolor amet
-                    diam stet. Est stet ea lorem amet est kasd kasd et erat magna eos</p>
+                <p>Penginapan nya sangat bagus dan kemandangan sangat indah layanan sangat baik
+                    Fasilitas nya sangat lengkap</p>
                 <div class="d-flex align-items-center">
                     <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-3.jpg"
                          style="width: 45px; height: 45px;">
                     <div class="ps-3">
-                        <h6 class="fw-bold mb-1">Client Name</h6>
-                        <small>Profession</small>
+                        <h6 class="fw-bold mb-1">Muhammad Akbar</h6>
+                        <small>Customer</small>
+                    </div>
+                </div>
+                <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mb-n1"></i>
+            </div>
+            <div class="testimonial-item position-relative bg-white rounded overflow-hidden">
+                <p>Suasana di penginapan kurang nyaman, terutama suara bising dari luar kamar membuat
+                    sulit beristirahat.</p>
+                <div class="d-flex align-items-center">
+                    <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-2.jpg"
+                         style="width: 45px; height: 45px;">
+                    <div class="ps-3">
+                        <h6 class="fw-bold mb-1">Achmad Naufal Karim</h6>
+                        <small>Customer</small>
+                    </div>
+                </div>
+                <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mb-n1"></i>
+            </div>
+            <div class="testimonial-item position-relative bg-white rounded overflow-hidden">
+                <p>Sangat puas dengan pelayanan di penginapan ini. Kamar nyaman, suasana tenang, dan
+                    sarapan paginya lezat!</p>
+                <div class="d-flex align-items-center">
+                    <img class="img-fluid flex-shrink-0 rounded" src="img/testimonial-1.jpg"
+                         style="width: 45px; height: 45px;">
+                    <div class="ps-3">
+                        <h6 class="fw-bold mb-1">Fina salsabila</h6>
+                        <small>Customer</small>
                     </div>
                 </div>
                 <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mb-n1"></i>
