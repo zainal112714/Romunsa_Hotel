@@ -3,7 +3,7 @@
         <div class="col-lg-3 bg-light-sky-blue d-none d-lg-block">
             <a href="{{ route('home') }}"
                class="navbar-brand w-100 h-100 m-0 p-0 d-flex align-items-center justify-content-center">
-                <h1 class="m-0 text-white text-uppercase">Star Hotel</h1>
+                <h1 class="m-0 text-white text-uppercase">Homestay KPK</h1>
             </a>
         </div>
         <div class="col-lg-9">
@@ -11,11 +11,11 @@
                 <div class="col-lg-7 px-5 text-start">
                     <div class="h-100 d-inline-flex align-items-center py-2 me-4">
                         <i class="fa fa-envelope text-dark me-2"></i>
-                        <p class="mb-0 text-dark">info@example.com</p>
+                        <p class="mb-0 text-dark">homestaykpk@gmail.com</p>
                     </div>
                     <div class="h-100 d-inline-flex align-items-center py-2">
                         <i class="fa fa-phone-alt text-dark me-2"></i>
-                        <p class="mb-0 text-dark">+1514 345 6789</p>
+                        <p class="mb-0 text-dark">081228980017</p>
                     </div>
                 </div>
                 <div class="col-lg-5 px-5 text-end">
@@ -30,14 +30,14 @@
             </div>
             <nav class="navbar navbar-expand-lg bg-light-sky-blue navbar-dark p-3 p-lg-0">
                 <a href="{{ route('home') }}" class="navbar-brand d-block d-lg-none">
-                    <h1 class="m-0 text-primary text-uppercase">Star Hotel</h1>
+                    <h1 class="m-0 text-primary text-uppercase">Homestay KPK</h1>
                 </a>
                 <button type="button" class="navbar-toggler" data-bs-toggle="collapse"
                         data-bs-target="#navbarCollapse">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
-                    <div class="navbar-nav mr-auto py-0">
+                    <div class="navbar-nav ms-auto py-0">
                         <a class="nav-item nav-link {{ request()->routeIs('home') ? 'active' : '' }}"
                            href="{{ route('home') }}">Home</a>
                         <a class="nav-item nav-link {{ request()->routeIs('rooms.index') ? 'active' : '' }}"
