@@ -39,9 +39,9 @@
                             </div>
 
                             <div class="col-12">
-                                <button class="btn btn-primary w-100" type="submit">Log in</button>
+                                <button class="btn w-100" type="submit" style="background-color: midnightblue; color: white;">Log in</button>
                             </div>
-                            <p class="text-center">Don't have an account? <a href="{{ route('register') }}">Sign up now</a></p>
+                            <p class="text-center">Don't have an account? <a href="{{ route('register') }}" style="color: midnightblue;">Sign up now</a></p>
                         </form>
                     </div>
                 </div>
@@ -49,4 +49,3 @@
         </div>
     </div>
 @endsection
-

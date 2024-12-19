@@ -48,7 +48,7 @@
                     </div>
                 </div>
                 <div class="col-md-2">
-                    <button type="submit" class="btn btn-primary w-100">Submit</button>
+                    <button type="submit" class="btn w-100" style="background-color: #191970; color: white;">Submit</button>
                 </div>
             </form>
         </div>

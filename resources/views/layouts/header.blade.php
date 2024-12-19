@@ -1,9 +1,9 @@
-<div class="container-fluid bg-light-sky-blue px-0">
+<div class="container-fluid bg-midnight-blue px-0">
     <div class="row gx-0">
-        <div class="col-lg-3 bg-light-sky-blue d-none d-lg-block">
+        <div class="col-lg-3 bg-midnight-blue d-none d-lg-block">
             <a href="{{ route('home') }}"
                class="navbar-brand w-100 h-100 m-0 p-0 d-flex align-items-center justify-content-center">
-                <h1 class="m-0 text-white text-uppercase">Star Hotel</h1>
+               <h1 class="m-0 text-white text-uppercase small-title">Homestay KPK</h1>
             </a>
         </div>
         <div class="col-lg-9">
@@ -11,11 +11,11 @@
                 <div class="col-lg-7 px-5 text-start">
                     <div class="h-100 d-inline-flex align-items-center py-2 me-4">
                         <i class="fa fa-envelope text-dark me-2"></i>
-                        <p class="mb-0 text-dark">info@example.com</p>
+                        <p class="mb-0 text-dark">wismakpkta@gmail.com</p>
                     </div>
                     <div class="h-100 d-inline-flex align-items-center py-2">
                         <i class="fa fa-phone-alt text-dark me-2"></i>
-                        <p class="mb-0 text-dark">+1514 345 6789</p>
+                        <p class="mb-0 text-dark">081228980017</p>
                     </div>
                 </div>
                 <div class="col-lg-5 px-5 text-end">
@@ -28,7 +28,7 @@
                     </div>
                 </div>
             </div>
-            <nav class="navbar navbar-expand-lg bg-light-sky-blue navbar-dark p-3 p-lg-0">
+            <nav class="navbar navbar-expand-lg bg-midnight-blue navbar-dark p-3 p-lg-0">
                 <a href="{{ route('home') }}" class="navbar-brand d-block d-lg-none">
                     <h1 class="m-0 text-primary text-uppercase">Star Hotel</h1>
                 </a>
@@ -73,9 +73,9 @@
 
 <!-- Tambahkan CSS untuk memastikan warna tetap aktif -->
 <style>
-    /* Warna dasar Light Sky Blue */
-    .bg-light-sky-blue {
-        background-color: #87CEFA !important;
+    /* Warna dasar Midnight Blue */
+    .bg-midnight-blue {
+        background-color: #191970 !important;
     }
 
     /* Gaya default untuk navbar link */
@@ -86,12 +86,17 @@
 
     /* Ubah warna saat hover */
     .navbar-nav .nav-link:hover {
-        color: #483D8B !important; /* Dark Slate Blue */
+        color: #00BFFF !important; /* Deep Sky Blue */
     }
 
     /* Ubah warna untuk link yang aktif */
     .navbar-nav .nav-link.active {
-        color: #483D8B !important; /* Dark Slate Blue */
+        color: #00BFFF !important; /* Deep Sky Blue */
         font-weight: bold; /* Tambahkan gaya bold untuk membedakan */
+    }
+
+    /* Gaya untuk ukuran teks kecil */
+    .small-title {
+        font-size: 24px; /* Ukuran teks lebih kecil */
     }
 </style>
