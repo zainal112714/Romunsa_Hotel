@@ -3,9 +3,9 @@
         <div class="row g-5">
             <div class="col-md-6 col-lg-5">
                 <h6 class="section-title text-start text-primary text-uppercase mb-4">Contact</h6>
-                <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
-                <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
-                <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@example.com</p>
+                <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>XWJG+RXF, Ngasinan, Bendosari, Kec. Ngantru, Kabupaten Tulungagung, Jawa Timur 66252</p>
+                <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>0812-2898-0017</p>
+                <p class="mb-2"><i class="fa fa-envelope me-3"></i>wismakpkta@gmail.com</p>
                 <div class="d-flex pt-2">
                     <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
                     <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
@@ -25,11 +25,9 @@
                     </div>
                     <div class="col-md-6">
                         <h6 class="section-title text-start text-primary text-uppercase mb-4">Services</h6>
-                        <a class="btn btn-link" href="">Food & Restaurant</a>
-                        <a class="btn btn-link" href="">Spa & Fitness</a>
-                        <a class="btn btn-link" href="">Sports & Gaming</a>
-                        <a class="btn btn-link" href="">Event & Party</a>
-                        <a class="btn btn-link" href="">GYM & Yoga</a>
+                        <a class="btn btn-link" href="">Parkir Mobil dan Motor</a>
+                        <a class="btn btn-link" href="">Ruang Rapat</a>
+                        <a class="btn btn-link" href="">Acara dan Pesta</a>
                     </div>
                 </div>
             </div>

@@ -39,7 +39,7 @@
                             <i class="fa fa-calendar-alt fa-2x"></i>
                         </div>
                     </div>
-                    <h5 class="mb-3">Events dan Pesta</h5>
+                    <h5 class="mb-3">Acara dan Pesta</h5>
                     <p class="text-body mb-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem
                         sed diam stet diam sed stet lorem.</p>
                 </a>
