@@ -21,17 +21,18 @@ pipeline {
                 }
             }
         }
-        stage('Github') {
+        stage('Clone GitHub Repository') {
             steps {
-                echo 'Mengambil kode dari repository GitHub'
+                // Mengambil kode dari repositori GitHub
+                git branch: 'main', url: 'https://github.com/zainal112714/Romunsa_Hotel.git'
             }
         }
-        stage('VsCode') {
+        stage('Build') {
             steps {
                 echo 'Membangun aplikasi menggunakan Visual Studio Code'
             }
         }
-        stage('Jenkins') {
+        stage('Test') {
             steps {
                 echo 'Menguji aplikasi dengan pipeline Jenkins'
             }
