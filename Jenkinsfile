@@ -24,7 +24,7 @@ pipeline {
         stage('GitHub') {
             steps {
                 // Mengambil kode dari repositori GitHub
-                git branch: 'main', url: 'https://github.com/zainal112714/Romunsa_Hotel.git'
+                git branch: 'master', url: 'https://github.com/zainal112714/Romunsa_Hotel.git'
             }
         }
         stage('Build') {
