@@ -2,32 +2,32 @@ pipeline {
     agent any
 
     stages {
-        stage('Plan') {
+        stage('Teams') {
             steps {
                 echo 'Using Microsoft Teams for communication and planning'
             }
         }
-        stage('Code') {
+        stage('Github') {
             steps {
                 echo 'Fetching code from GitHub repository'
             }
         }
-        stage('Build') {
+        stage('VsCode') {
             steps {
                 echo 'Building the application using Visual Studio Code'
             }
         }
-        stage('Test') {
+        stage('Jenkins') {
             steps {
                 echo 'Testing the application with Jenkins pipeline'
             }
         }
-        stage('Expose') {
+        stage('Ngrok') {
             steps {
                 echo 'Exposing application locally using Ngrok'
             }
         }
-        stage('Dockerize') {
+        stage('Docker') {
             steps {
                 echo 'Containerizing the application with Docker'
             }
