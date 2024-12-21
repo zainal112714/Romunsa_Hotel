@@ -21,7 +21,7 @@ pipeline {
                 }
             }
         }
-        stage('Clone GitHub Repository') {
+        stage('GitHub') {
             steps {
                 // Mengambil kode dari repositori GitHub
                 git branch: 'main', url: 'https://github.com/zainal112714/Romunsa_Hotel.git'
